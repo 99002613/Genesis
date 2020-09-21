@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600623388 source:c:\genesisset1\image\image.cc
+	"image.h"
+	<iostream>
+
+1600622953 c:\genesisset1\image\image.h
+
+1600623086 source:c:\genesisset1\image\image_test.cc
+	"image.h"
+	<gtest/gtest.h>
+

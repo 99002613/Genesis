@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600610644 source:c:\genesisset1\customer\customer.cc
+	<iostream>
+	"customer.h"
+
+1600609272 c:\genesisset1\customer\customer.h
+
+1600609682 source:c:\genesisset1\customer\customer_test.cc
+	<iostream>
+	"customer.h"
+	"gtest/gtest.h"
+

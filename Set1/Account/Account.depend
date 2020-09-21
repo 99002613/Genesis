@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600704482 source:c:\users\pavan\onedrive\desktop\set1\account\account.cc
+	<iostream>
+	"Account.h"
+
+1600704128 c:\users\pavan\onedrive\desktop\set1\account\account.h
+	<string>
+
+1600704467 source:c:\users\pavan\onedrive\desktop\set1\account\account_test.cc
+	"Account.h"
+	"gtest/gtest.h"
+

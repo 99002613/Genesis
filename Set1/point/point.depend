@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205420 source:c:\genesisset1\point\main.cpp
+	<iostream>
+
+1600620758 source:c:\genesisset1\point\point.cc
+	"point.h"
+	<math.h>
+	<iostream>
+
+1600620600 c:\genesisset1\point\point.h
+
+1600621469 source:c:\genesisset1\point\point_test.cc
+	"point.h"
+	<iostream>
+	"point.h"
+	"gtest/gtest.h"
+

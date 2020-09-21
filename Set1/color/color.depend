@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584205420 source:c:\genesisset1\color\main.cpp
+	<iostream>
+
+1600620280 source:c:\genesisset1\color\color.cc
+	"color.h"
+	<iostream>
+
+1600619137 c:\genesisset1\color\color.h
+
+1600619307 source:c:\genesisset1\color\color_test.cc
+	<iostream>
+	"color.h"
+	<gtest/gtest.h>
+

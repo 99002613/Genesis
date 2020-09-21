@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600608725 source:c:\genesisset1\box\box_test.cc
+	<iostream>
+	"box.h"
+	"gtest/gtest.h"
+
+1600608570 c:\genesisset1\box\box.h
+
+1600608753 source:c:\genesisset1\box\box.cc
+	<iostream>
+	"box.h"
+
