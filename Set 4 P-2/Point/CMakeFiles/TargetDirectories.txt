@@ -1,0 +1,3 @@
+/home/nishikakoushik/Desktop/set-4/Point/CMakeFiles/rebuild_cache.dir
+/home/nishikakoushik/Desktop/set-4/Point/CMakeFiles/executeTests.dir
+/home/nishikakoushik/Desktop/set-4/Point/CMakeFiles/edit_cache.dir

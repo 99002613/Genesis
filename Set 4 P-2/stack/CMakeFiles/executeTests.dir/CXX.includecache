@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nishikakoushik/Desktop/set-4/stack/stack.cpp
+stack.h
+/home/nishikakoushik/Desktop/set-4/stack/stack.h
+iostream
+-
+
+/home/nishikakoushik/Desktop/set-4/stack/stack.h
+iostream
+-
+vector
+-
+
+/home/nishikakoushik/Desktop/set-4/stack/stack_test.cpp
+stack.cpp
+/home/nishikakoushik/Desktop/set-4/stack/stack.cpp
+gtest/gtest.h
+-
+
