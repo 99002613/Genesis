@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1600684777 source:d:\training\set 3\shapes\shapes_test.cc
+	"shape.h"
+	"polygon.h"
+	"circle.h"
+	"rectangle.h"
+	"triangle.h"
+	<gtest/gtest.h>
+
+1600684143 d:\training\set 3\shapes\shape.h
+
+1600684369 d:\training\set 3\shapes\polygon.h
+	"shape.h"
+
+1600684112 d:\training\set 3\shapes\circle.h
+	"shape.h"
+
+1600684558 d:\training\set 3\shapes\rectangle.h
+	"polygon.h"
+
+1600684218 d:\training\set 3\shapes\triangle.h
+	"polygon.h"
+
+1600684878 source:d:\training\set 3\shapes\main.cpp
+	<iostream>
+	<iostream>
+	<cmath>
+	"shape.h"
+	"polygon.h"
+	"circle.h"
+	"rectangle.h"
+	"triangle.h"
+

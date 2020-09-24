@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1600687206 source:d:\training\set 3\banking\banking.cc
+	<iostream>
+	<string>
+	"account.h"
+	"creditaccount.h"
+	"savingsaccount.h"
+
+1600686608 d:\training\set 3\banking\account.h
+	<string>
+
+1600686647 d:\training\set 3\banking\creditaccount.h
+	<string>
+	"account.h"
+
+1600686873 d:\training\set 3\banking\savingsaccount.h
+	<string>
+	"account.h"
+
